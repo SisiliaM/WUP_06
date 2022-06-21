@@ -75,7 +75,7 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
-In the numerical analysis you can see the white race has 67% in favor and 32% opposing which is 35% difference between the two. You can also see that for the black race they have 46% favoring and 53% opposing which is a 7% difference between the two. Lastly you can see other races have 56% favoring and 44% opposing which is a 12% difference between the two. This helps proves our point that both the white race and other have a higher amount of people who favor capital punishment and that the black race has a higher amount of people who oppose capital punishment.
+In the numerical results you can see the white race has 67% in favor and 32% opposing which is 35% difference between the two. You can also see that for the black race they have 46% favoring and 53% opposing which is a 7% difference between the two. Lastly you can see other races have 56% favoring and 44% opposing which is a 12% difference between the two. This helps proves our point that both the white race and other have a higher amount of people who favor capital punishment and that the black race has a higher amount of people who oppose capital punishment.
 
 
 ## Now with More data
