@@ -63,7 +63,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-
+ The bar chat is showing us who is in favor and who opposes capital punishment. It shows the response between white, black, and other races. Looking at the bar chart you can see that white people favor capital punishment more than black people. You can also see that black people have a higher number that opposes capital punishment than other races and white people. Other races have a higher number of people who favor rather than oppose. Looking at the percentage graph you can see that the white race and other race have a higher amount of people who favor capital punishment and that the black race has more who oppose it. 
 
 ### Numerical Descriptive Results
 
