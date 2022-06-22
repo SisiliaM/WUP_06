@@ -94,8 +94,10 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+The Chi-Square test does not tells us there is not a difference based off the p-value given here. So we will have to run the fisher-XY test to see if there is a difference.
+
 ```{r}
-fisherXY(mydata$cappun,mydata$race)
+fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
 
