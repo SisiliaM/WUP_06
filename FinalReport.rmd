@@ -88,9 +88,9 @@ The numerical data shows us that the white race had more people that voted compa
 ## Less data version
 
 ```{r}
-chisq.test(table2)
-chisqtestGC(table2)
-fisher.test(table2)
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 ```{r}
