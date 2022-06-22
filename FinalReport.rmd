@@ -76,13 +76,6 @@ colPerc(table1)
 
 The numerical data shows us that the white race had more people that voted compared to the other two races. However if you compared the percentages 68.23% of white people were in favor and 31.77% were opposing.Looking at the black race 49.55% were in favor and 50.45% were opposing. Lastly looking at the other race 68.75% were in favor and 31.25% were opposing. This shows us that vast majority of the white and other race were in favor of capital punishment and majority of the black race was on the opposing side.
 
-## Now with less data
-
-```{r}
-table2 <- xtabs(~race + cappun, data=mydata)
-rowPerc(table2)
-colPerc(table2)
-```
 
 
 ## Inferential Results
