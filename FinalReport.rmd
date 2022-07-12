@@ -62,7 +62,7 @@ basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
-Looking at the graph you can infer that for the white race about 350 of them favor capital punishment and about 175 of them oppose it. For the black race it looks about equal to 50 people for each side. For the other race it looks about 65 of them favor capital punishment and about 25 of them oppose it. Looking at the percentage graph you can see that the white race and other race have a higher percentage of peeople who favor capital punishment and that the black race has the highest persentage of people who oppose it.
+Looking at the graph you can infer that for the white race about 350 of them favor capital punishment and about 175 of them oppose it. For the black race it looks about equal to 50 people for each side. For the other race it looks about 65 of them favor capital punishment and about 25 of them oppose it. Looking at the percentage graph you can see that the white race and other race have a higher percentage of people who favor capital punishment and that the black race has the highest percentage of people who oppose it.
 
 ### Numerical Descriptive Results
 
@@ -169,3 +169,5 @@ Looking at the fisherXY test the p-value tells us that there is indeed a differe
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+All in all we can conclude that the white race and other race both have people that favor capital punishment more. However the black race had a higher amount of people who oppose capital punishment. There is a major difference if you compare the whites to the blacks or the blacks and the other races. If you compare the whites to the other races you will see there is not a difference since we did the fisherXY test and the p value came out with 1.
