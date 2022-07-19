@@ -100,7 +100,7 @@ The Chi-Square test does not tells us there is not a difference based off the p-
 fisherXY(mydata$cappun,mydata$race,printAll = TRUE)
 ```
  
- Looking at the fisherXY test it tells us that when comparing the black race to the whites and other races that there is a difference since their p values are lower than 1. However when you compare the white race to the other races it shows us that there is not a difference since the p value is at 1. 
+ Looking at the fisherXY test it tells us that when comparing all three races to one another there is a difference between all of them based on the p-value shown on the test results.
 
 # Discussion and Conclusion
 
